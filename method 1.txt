@@ -1,0 +1,16 @@
+For activating window 10 or other follow this steps
+=====================================================
+
+step 1.	Open command prompt in administrator mode
+
+step 2. Type this " slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX "
+	and press enter. after the some pop up message show then click ok 
+
+step 3. Type this " slmgr /skms kms8.msguides.com "
+	and press enter. after the some pop up message show then click ok
+
+step 4. Type this " slmgr /ato "
+	and press enter. after the some pop up message show then click ok
+
+---------------------------------------------------------------------------
+After following this steps your window will be activated.
