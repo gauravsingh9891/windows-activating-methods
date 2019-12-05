@@ -4,9 +4,9 @@
 
 step 1 : you need to first turn off window defender.
 
-step 2 : After compilition of step 1 then downlown this batch file in this method 2 folder.
-
-step 3: After downloading you need to open this batch file in administrator mode then cmd will be open
+step 2 : you need to copy text which is in method 2 folder in notepad.
+step 3 : save as in .cmd extenstion
+step 4:  you need to open this batch file in administrator mode then cmd will be open
 	it will take time...
 
 
